@@ -1,0 +1,23 @@
+a .wpp
+{
+
+    height: 60px;
+    margin: 8px 8px;
+    display: block;
+    bottom: 8px;
+    right: 6px;
+    position: fixed;
+    border-radius:100%;
+    z-index: 9
+}
+.tgm{
+
+    height: 60px;
+    margin: 8px 8px;
+    display: block;
+    bottom: 60px;
+    right: 6px;
+    position: fixed;
+      border-radius:100%;
+      z-index: 9;
+    }

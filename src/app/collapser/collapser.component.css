@@ -1,0 +1,25 @@
+.tablas{
+  text-align: center;
+}
+button{
+  width:150px;
+  height:35px;
+  text-align: center;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 0px;
+  position:relative;
+  align-content: center;
+  background-color: rgba(102, 21, 21, 0.22);
+  font-family: Iceland;
+  font-size:3em;
+
+}
+.toggabre{
+
+  margin-bottom: 0px;
+position: relative;
+bottom: 20px;
+color: white
+}
