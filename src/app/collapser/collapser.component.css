@@ -1,5 +1,6 @@
 .tablas{
   text-align: center;
+  background-color: #0e0e0ead;
 }
 button{
   width:150px;
@@ -21,5 +22,8 @@ button{
   margin-bottom: 0px;
 position: relative;
 bottom: 20px;
-color: white
+color: #31313147;
+}
+.desarrollo{
+  
 }

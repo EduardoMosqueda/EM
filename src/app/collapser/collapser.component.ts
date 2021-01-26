@@ -13,8 +13,9 @@ trigger("clicMuestra",[
 
   })),
   state("no-active", style({
-  backgroundColor:"rgba(71, 71, 71, 0)",
+  backgroundColor: "rgba(71, 71, 71, 0)",
   color:"rgba(71, 71, 71, 0)"
+  
 
 })),
 transition ("active<=>no-active",
