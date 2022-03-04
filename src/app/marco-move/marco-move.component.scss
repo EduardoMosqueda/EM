@@ -18,13 +18,17 @@ $main-color: white;
 .nombref{
   color:white;
   text-align: center;
+  font-size:3em;
 }
 .bb {
   @extend %full-fill;
   width: $box-size;
   height: $box-size;
   margin-top:90px;
-  display:block;
+  display:flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
 margin-left:auto;
 margin-right:auto;
   text-align: center;
